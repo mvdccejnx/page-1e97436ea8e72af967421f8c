@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uvcgzdj.cn/sitemap.xml
